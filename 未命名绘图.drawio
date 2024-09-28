@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="第 1 页" id="BzUVNcNR8f_QwnwFMMkc">
+    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4ItafrLUVM55efiNbUe9-18" value="国庆南京游" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;fontSize=19;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;labelBackgroundColor=none;fillColor=#cdeb8b;strokeColor=#36393d;gradientColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="70" width="530" height="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="4ItafrLUVM55efiNbUe9-19" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=17;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#FFB570;fontStyle=1" vertex="1" parent="4ItafrLUVM55efiNbUe9-18">
+          <mxGeometry y="30" width="530" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="4ItafrLUVM55efiNbUe9-20" value="10月1日" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=16;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffcccc;strokeColor=#36393d;fontStyle=1" vertex="1" parent="4ItafrLUVM55efiNbUe9-19">
+          <mxGeometry width="118" height="310" as="geometry">
+            <mxRectangle width="118" height="310" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ItafrLUVM55efiNbUe9-21" value="&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;下午&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;br&gt;13:00 - 15:00 南京中山陵&lt;br&gt;游览孙中山先生的陵寝，感受其庄严肃穆的氛围。&lt;br&gt;15:00 - 17:00 中山陵音乐台&lt;br&gt;在这里放松身心，享受和平鸽带来的宁静。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;span&gt;(以上都在钟山风景区下午剩余时间就在钟山风景区转转。）&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;br&gt;傍晚&lt;br&gt;&lt;br&gt;18:00 - 20:00 夫子庙&lt;br&gt;可以在这里品尝南京特色小吃，如鸭血粉丝汤等。&lt;br&gt;20:00 - 21:00 老东门、中华门&lt;br&gt;欣赏夜景，感受古城墙的魅力。&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#ffcccc;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#36393d;fontSize=16;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;fontStyle=1" vertex="1" parent="4ItafrLUVM55efiNbUe9-19">
+          <mxGeometry x="118" width="412" height="310" as="geometry">
+            <mxRectangle width="412" height="310" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ItafrLUVM55efiNbUe9-22" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#393C56;" vertex="1" parent="4ItafrLUVM55efiNbUe9-18">
+          <mxGeometry y="340" width="530" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="4ItafrLUVM55efiNbUe9-23" value="10月2日" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#ffcc99;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#36393d;fontSize=16;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1" vertex="1" parent="4ItafrLUVM55efiNbUe9-22">
+          <mxGeometry width="118" height="380" as="geometry">
+            <mxRectangle width="118" height="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ItafrLUVM55efiNbUe9-24" value="&lt;span style=&quot;color: rgb(63, 63, 63); white-space-collapse: preserve;&quot;&gt;10月2日&lt;br&gt;早晨&lt;br&gt;&lt;br&gt;06:00 - 08:30 明孝陵&lt;br&gt;探访明朝开国皇帝朱元璋及其皇后的陵墓，了解明代历史。&lt;br&gt;08:40 - 10:00 梧桐大道&lt;br&gt;漫步于美丽的梧桐树下，感受南京的秋意。&lt;br&gt;中午&lt;br&gt;&lt;br&gt;返回酒店休息，补充体力。&lt;br&gt;下午&lt;br&gt;&lt;br&gt;14:00 - 17:00 颐和路、西桥、金银街、南秀村、陶谷新村&lt;br&gt;在这些充满文艺气息的小巷里漫步，寻找拍摄点。&lt;br&gt;17:00 - 18:00 先锋书店&lt;br&gt;在这家具有特色的书店里逛逛，买些纪念品。&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); white-space-collapse: preserve;&quot;&gt;19：00-20：00 莫愁湖或大报恩寺遗址景区看看夜景&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#ffcc99;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#36393d;fontSize=16;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="4ItafrLUVM55efiNbUe9-22">
+          <mxGeometry x="118" width="412" height="380" as="geometry">
+            <mxRectangle width="412" height="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ItafrLUVM55efiNbUe9-25" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#393C56;" vertex="1" parent="4ItafrLUVM55efiNbUe9-18">
+          <mxGeometry y="720" width="530" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="4ItafrLUVM55efiNbUe9-26" value="10月3日" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#e3c800;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#B09500;fontSize=16;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#000000;fontStyle=1" vertex="1" parent="4ItafrLUVM55efiNbUe9-25">
+          <mxGeometry width="118" height="420" as="geometry">
+            <mxRectangle width="118" height="420" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ItafrLUVM55efiNbUe9-27" value="&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;10月3日&lt;br&gt;早晨&lt;br&gt;&lt;br&gt;08:00 - 10:00 红山森林动物园(看情况：动物园在山上)&lt;br&gt;观赏各种动物，适合带小朋友的家庭。&lt;br&gt;10:00 - 12:00 玄武湖&lt;br&gt;在湖边散步，呼吸新鲜空气。&lt;br&gt;12:00 - 13:00 锁金村&lt;br&gt;体验当地居民的生活。&lt;br&gt;13:00 - 14:00 鸡鸣寺&lt;br&gt;参观寺庙，祈福许愿。&lt;br&gt;下午&lt;br&gt;&lt;br&gt;15:00 - 17:00 阅江楼&lt;br&gt;登楼远眺，欣赏长江美景。&lt;br&gt;10月4日&lt;br&gt;看情况决定：&lt;br&gt;&lt;br&gt;可以去 新街口转转&lt;br&gt;这是南京的商业中心，可以在这里逛街购物、品尝美食。&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#ffff88;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#36393d;fontSize=16;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontStyle=1;verticalAlign=middle;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="4ItafrLUVM55efiNbUe9-25">
+          <mxGeometry x="118" width="412" height="420" as="geometry">
+            <mxRectangle width="412" height="420" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
